@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-microservice-currency-conversion-service/spring-cloud-microservice-currency-conversion-service.iml" filepath="$PROJECT_DIR$/spring-cloud-microservice-currency-conversion-service/spring-cloud-microservice-currency-conversion-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-microservice-eureka/spring-cloud-microservice-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-microservice-eureka/spring-cloud-microservice-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-microservice-example.iml" filepath="$PROJECT_DIR$/springcloud-microservice-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-microservice-forex-servcie/springcloud-microservice-forex-servcie.iml" filepath="$PROJECT_DIR$/springcloud-microservice-forex-servcie/springcloud-microservice-forex-servcie.iml" />
+    </modules>
+  </component>
+</project>
